@@ -1,0 +1,9 @@
+name: JBoss Data Virtualization 6.2 image
+maintainers:
+- Cojan van Ballegooijen <cvanball@redhat.com>
+description: |
+  This image provides a base installation of JBoss Data Virtualization and JBoss
+  Developer Studio with the Integration Stack plugins installed. The Financials demo is installed as well.
+layer:
+  cpus: 2
+  mem: 8192
